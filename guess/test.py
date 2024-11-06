@@ -30,3 +30,4 @@ guessed_letters = ["p", "t", "h"] # Угаданные буквы
 revealed_word = reveal_letters(word, hidden_word, guessed_letters)
 
 print(f"Слово: {revealed_word}")  # Вывод: Слово: p_th_n
+print('hello world')
